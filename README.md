@@ -1,1 +1,1 @@
-# eda-techniques
+# EDA TECHNIQUES (Exploratory Data Analysis)
